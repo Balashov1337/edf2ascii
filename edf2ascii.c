@@ -115,7 +115,7 @@ int main(int argc, char *argv[])
 
   if(argc!=2)
   {
-      printf("%c", argc);
+      printf("%d", argc);
    
     printf("\nEDF(+) or BDF(+) to ASCII converter version 1.4\n"
            "Copyright 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 Teunis van Beelen\n"
